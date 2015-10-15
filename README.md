@@ -1,9 +1,11 @@
-# open-fast-pcr
+# open-fast-pcr v0.3
 fast and simple pcr machine
 
 a cheap, fast and relible PCR platform.
 
 Work in progress linear rail without belt in picture.
+
+![3d rendering of linear rail](https://raw.githubusercontent.com/yardimli/open-fast-pcr/master/linear-rail-flex-v0.3.JPG)
 
 ![3d rendering of linear rail](https://raw.githubusercontent.com/yardimli/open-fast-pcr/master/linear-rail-slim.JPG)
 
@@ -18,5 +20,3 @@ The system will be controled by an arduino mega and will be programmed through b
 
 A small LCD panel will be attached to give a quick look at current protocol progress.
 
-The 0.3 version allows for flexible sizing:
-![3d rendering of linear rail](https://raw.githubusercontent.com/yardimli/open-fast-pcr/master/linear-rail-flex.JPG)
